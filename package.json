@@ -1,0 +1,25 @@
+{
+  "name": "tactics",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000a\u0000l\u0000 \u0000T\u0000i\u0000m\u0000e\u0000 \u0000S\u0000i\u0000m\u0000u\u0000l\u0000a\u0000t\u0000i\u0000o\u0000n\u0000 \u00009\u0000x\u00009\u0000 \u0000T\u0000a\u0000c\u0000t\u0000i\u0000c\u0000s\u0000\r\u0000 \u0000\r\u0000 \u0000<\u0000i\u0000m\u0000g\u0000 \u0000s\u0000r\u0000c\u0000=\u0000\"\u0000s\u0000c\u0000r\u0000e\u0000e\u0000n\u0000s\u0000h\u0000o\u0000t\u0000.\u0000p\u0000n\u0000g\u0000\"\u0000 \u0000/\u0000>\u0000\r\u0000 \u0000\r\u0000 \u0000\u00100�0�0�0�0�0\u00110\r\u0000 \u0000\u0014f\u00050\u00010B0�0�Vn0-Nk0UOEeK0\u0018��Nn0�s�iL0E\\~0W0_0\u00020\r\u0000 \u0000\u0018��Nn0�s�io0]0�0j0�0k0 NKbO0�0�0d0d0�V�0�l�0f0J0�0~0W0_0L0\u00010\r\u0000 \u0000B0�0Bf\u00010\u0000N�Nn0�s�iL0UO�0\u001d`c0_0K0�Nn0�sk0\u0011TQ0f0S0F0JTR0~0W0_0\u00020\r\u0000 \u0000�s!�\f0��lQ�0n0��o0�gk0 T�0U0�0�0n0L0J0<O\bTD0`0\u0001�\r0\r\u0000 \u0000�s\"�^�(�\f0�0�0W0D0\u00010j0�0p0&b�N`0\r0\r\u0000 \u0000�[eg\f0�0�0g0\u0001�\u001f�\r0\r\u0000 \u0000S0�0L0�_k0\f0V�og&b�N\r0h0|Tp0�0�0�l�ln0�Q&bn0�Y~0�0g0B0�0\u00020\r\u0000 \u0000\r\u0000 \u0000\u00100J�s0�e\u00110\r\u0000 \u0000;ub�n0��\bT N\u0018��N�0�Q[0~0[0�0n0g0\u0011��[\u0011�g0Y0\u00020T0�NbO0`0U0D0\u00020\r\u0000 \u0000\u0018��\u0000\u0018�n0�0�0�0�Qn0&xK0�0�0�0�0�0~0_0o0�0�0�0�0W0f0uQ�0�RK0W0f0O0`0U0D0\u00020\r\u0000 \u0000&x~0_0o0uQn0 Nn0peW[L0]0n0~0~0uQ�Rh0j0�0~0Y0\u00020\r\u0000 \u0000�0�0�0�0�0n0&x~0_0o0uQo0R�r�n0peW[L0h�:yU0�0\u00010uen0&x~0_0o0uQk0o0d�r�n0peW[L0h�:yU0�0~0Y0\u00020\r\u0000 \u0000}vD0peW[n0&xo0-N�z&xh0j0�0~0Y0\u00020\r\u0000 \u0000���Y\u0011�\u0015��y��o0uen0�0�0�0&xk0�v�c;e�0���0�No0�Qeg~0[0�0\u00020\r\u0000 \u0000�0�0�0�0�0n0�0�0�0&x\b��] N\t�~0_0o0uen0�0�0�0&x\b��S\u000bN\t�L0=�a0�0h0�0�0�0B}�Ng0Y0\u00020\r\u0000 \u0000\r\u0000 \u0000��Y0�0k0G\u0000a\u0000l\u0000c\u0000o\u0000n\u0000(\u0000h\u0000t\u0000t\u0000p\u0000:\u0000/\u0000/\u0000w\u0000w\u0000w\u0000.\u0000g\u0000a\u0000l\u0000c\u0000o\u0000n\u0000.\u0000c\u0000o\u0000m\u0000/\u0000)\u0000g0Y0\u00020\r\u0000 \u0000\r\u0000 \u0000",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimo/tactics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimo/tactics/issues"
+  },
+  "homepage": "https://github.com/minimo/tactics#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
